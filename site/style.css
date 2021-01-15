@@ -1,16 +1,48 @@
+
 body{
     background-color: #453568;
 }
 h1 {
-    color:white;
+    color:rgb(245, 245, 245);
     text-align-last: center;
     
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: poppins;
     font-weight: 300;
+    
 }
-div{
-    text-align: right;
+.div1{
+    text-align: center;
     font-family: montserrat;
     font-weight: 250;
+    color: rgb(153, 153, 45);
     font-style:normal;
+    background-color: ivory;
+    margin: auto;
+    padding: 10px;
+    box-sizing: border-box;
+    width: 200px;
+    align-items: center;
+}
+h2{
+    align-items: center;
+    box-sizing: border-box;
+    margin: auto;
+    text-align: center;
+}
+
+button{
+    background-color: blue;
+    text-align: center;
+    font-family: poppins ;
+    border: none;
+    color: ivory;
+    border-radius: 2px;
+    width: auto;
+    height: auto;
+    
+
+}
+button:hover {
+    background-color: lawngreen;
+    
 }
